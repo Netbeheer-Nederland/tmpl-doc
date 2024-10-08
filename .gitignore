@@ -15,6 +15,7 @@
 # IntelliJ IDEA
 /.idea/
 /*.iml
+/.ideavimrc
 
-# AsciiDoctor
+# Asciidoctor
 ./asciidoctor/
