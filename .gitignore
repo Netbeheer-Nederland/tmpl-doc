@@ -19,3 +19,7 @@
 
 # Asciidoctor
 ./asciidoctor/
+
+# Diagrams.net
+*.bkp
+*.dtmp
